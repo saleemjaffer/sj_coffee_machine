@@ -19,6 +19,7 @@ gem install bundler:2.1.2
 ### Setup repo
 ```
 git clone git@github.com:saleemjaffer/sj_coffee_machine.git
+cd sj_coffee_machine
 rvm install "2.7.0-sj_coffee_machine"
 bundle install # To install all the required gems
 ```
